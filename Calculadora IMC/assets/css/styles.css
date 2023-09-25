@@ -1,3 +1,22 @@
 body {
     color: #b31111;
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around
+}
+h1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+input {
+    width: 200px;
+    margin: 5px 0;
+}
+button {
+    width: 100px;
 }
