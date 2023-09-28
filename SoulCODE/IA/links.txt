@@ -1,0 +1,3 @@
+https://storage.googleapis.com/bucket-moodle-tech/desenvolvimento%20de%20chatbot%20com%20python%20e%20chat%20gpt/chatbot_chatgpt_python%20%20%5BARQUIVO%20PYTHON%5D.py
+
+https://colab.research.google.com/drive/1ISw-G5nhzVShvqSF6HZIMsKde9wZ1P0y?usp=sharing
