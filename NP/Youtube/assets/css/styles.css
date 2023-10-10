@@ -1,0 +1,32 @@
+.topo {
+    width: 100%;
+    padding: 15px 20px;
+}
+
+.topoLeft {
+    float: left;
+}
+
+.iconLeft {
+    float: left;
+}
+
+.imageLeft {
+    width: 100%;
+    max-width: 50px;
+    margin-left: 20px;
+}
+
+.searchTopo {
+    padding: 7px 10px;
+    width: 100%;
+    max-width: 600px;
+    margin-left: 140px;
+    margin-top: -8px;
+    outline-color: blue;
+}
+
+.buttonSearch {
+    padding: 7px 27px;
+    color: grey;
+}
