@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 .topo {
     width: 100%;
     padding: 15px 20px;
@@ -9,24 +15,172 @@
 
 .iconLeft {
     float: left;
+    cursor: pointer;
 }
 
 .imageLeft {
     width: 100%;
     max-width: 50px;
     margin-left: 20px;
+    cursor: pointer;
 }
 
 .searchTopo {
     padding: 7px 10px;
     width: 100%;
     max-width: 600px;
-    margin-left: 140px;
+    margin-left: 180px;
     margin-top: -8px;
     outline-color: blue;
+    float: left;
 }
 
 .buttonSearch {
     padding: 7px 27px;
     color: grey;
+    float: left;
+    margin-top: -8px;
+    cursor: pointer;
 }
+
+.micTopo {
+    float: left;
+    margin-left: 25px;
+    color: black;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.micTopo:hover {
+    color: grey;
+}
+
+.tableTopo {
+    float: left;
+    margin-left: 80px;
+    color: black;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.tableTopo:hover {
+    color: grey;
+}
+
+.verticalTopo {
+    float: left;
+    margin-left: 30px;
+    color: black;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.verticalTopo:hover {
+    color: grey;
+}
+
+.loginTopo {
+    float: right;
+    margin-right: 40px;
+    padding: 13px 20px;
+    color: blue;
+    border: 1px solid blue;
+    background: white;
+    font-weight: bold;
+    margin-top: -8px;
+    cursor: pointer;
+}
+
+.loginTopo:hover {
+    background: blue;
+    color: white;
+}
+
+.userLogin {
+    color: blue;
+    font-size: 20px !important;
+    float: left;
+    margin-right: 7px;
+    margin-top: -5px;
+}
+
+.loginTopo:hover .userLogin {
+    color: white;
+}
+
+.lateral {
+    border: 1px;
+    width: 100%;
+    max-width: 260px;
+    height: 1000px;
+    float: left;
+}
+
+.itemLateralActive {
+    padding: 15px 10px;
+    color: black;
+    font-size: 16px !important;
+    float: left;
+    width: 240px;
+    font-weight: bold;
+    background: #e6e6e6;
+    cursor: pointer;
+}
+
+.itemLateralActive:hover {
+    background: #e6e6e6;
+}
+
+.iconLateralActive {
+    float: left;
+    color: red;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.itemLateral {
+    padding: 15px 10px;
+    color: black;
+    font-size: 16px !important;
+    float: left;
+    width: 240px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.itemLateral:hover {
+    background: #e6e6e6;
+}
+
+.iconLateral {
+    float: left;
+    color: black;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.likeLateral {
+    width: 100%;
+    max-width: 150px;
+    font-size: 13px;
+    text-align: left;
+    margin-left: 20px;
+    
+}
+
+.userLoginLateral {
+    position: relative;
+    left: -20px;
+}
+
+.melhorLateral {
+    width: 100%;
+    max-width: 200px;
+    font-size: 17px;
+    text-align: center;
+    margin-left: 20px;
+    font-weight: bold;
+}
+    
