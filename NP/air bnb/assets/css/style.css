@@ -132,3 +132,8 @@
     cursor: pointer;
     margin-left: 15px;
 }
+
+.rightButtonUser:hover {
+    padding: 15px;
+    border-radius: 35px;
+}
