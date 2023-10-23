@@ -1,0 +1,14 @@
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\bin\Debug\net6.0\entrada dados p1.exe
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\bin\Debug\net6.0\entrada dados p1.deps.json
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\bin\Debug\net6.0\entrada dados p1.runtimeconfig.json
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\bin\Debug\net6.0\entrada dados p1.dll
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\bin\Debug\net6.0\entrada dados p1.pdb
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\obj\Debug\net6.0\entrada dados p1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\obj\Debug\net6.0\entrada dados p1.AssemblyInfoInputs.cache
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\obj\Debug\net6.0\entrada dados p1.AssemblyInfo.cs
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\obj\Debug\net6.0\entrada dados p1.csproj.CoreCompileInputs.cache
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\obj\Debug\net6.0\entrada dados p1.dll
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\obj\Debug\net6.0\refint\entrada dados p1.dll
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\obj\Debug\net6.0\entrada dados p1.pdb
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\obj\Debug\net6.0\entrada dados p1.genruntimeconfig.cache
+D:\Back in Black\Csharp\N A\entrada dados p1\entrada dados p1\obj\Debug\net6.0\ref\entrada dados p1.dll
