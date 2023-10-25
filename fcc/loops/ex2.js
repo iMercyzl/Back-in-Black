@@ -37,13 +37,13 @@
 
 
 
-let soma = 0;
-let numero = 1;
+// let soma = 0;
+// let numero = 1;
 
-while (numero <= 10) {
-    soma += numero;
-    numero++;
-}
+// while (numero <= 10) {
+//     soma += numero;
+//     numero++;
+// }
 
-console.log("A soma dos primeiros 10 números naturais é:", soma);
+// console.log("A soma dos primeiros 10 números naturais é:", soma);
 
