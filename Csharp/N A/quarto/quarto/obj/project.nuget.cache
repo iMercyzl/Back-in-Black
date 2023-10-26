@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYwwkP7eSXT5wDOKeFtRfLm7bIvbRD3Ous0U7pHP18W155L5+Mxs/xS+G4Jd5AEizjVaGY9NzL7vvmbOQRVzKg==",
+  "success": true,
+  "projectFilePath": "D:\\Back in Black\\Csharp\\N A\\quarto\\quarto\\quarto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
