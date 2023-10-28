@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Beecrowd</id>
+    <version>1.0.0</version>
+    <authors>Beecrowd</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Back in Black\Csharp\N A\Beecrowd\Beecrowd\bin\Debug\net6.0\Beecrowd.runtimeconfig.json" target="lib\net6.0\Beecrowd.runtimeconfig.json" />
+    <file src="D:\Back in Black\Csharp\N A\Beecrowd\Beecrowd\bin\Debug\net6.0\Beecrowd.dll" target="lib\net6.0\Beecrowd.dll" />
+  </files>
+</package>
