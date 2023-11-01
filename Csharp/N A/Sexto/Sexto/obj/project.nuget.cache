@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfWeD5GyhgssN554ygthx92CiPCCBE6aWm3eDA2U0sSJy892uDKjakNngKIpAwmvfZkmFbms0c0YaYsSyekWtg==",
+  "success": true,
+  "projectFilePath": "D:\\Back in Black\\Csharp\\N A\\Sexto\\Sexto\\Sexto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
