@@ -1,0 +1,9 @@
+class alunos {
+    constructor() {
+
+    }
+
+    get() {
+        
+    }
+}
