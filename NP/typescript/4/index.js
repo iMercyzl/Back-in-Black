@@ -1,7 +1,16 @@
-var usuario = {
-    id: 10,
-    nome: 'João',
-    email: 'pedro@pedro.com',
-    senha: '123456',
-    idade: 18,
-};
+var Usuarios = /** @class */ (function () {
+    function Usuarios() {
+    }
+    Usuarios.prototype.add = function (id) {
+        return id;
+    };
+    Usuarios.prototype.edit = function (id) {
+        return id;
+    };
+    Usuarios.prototype.delete = function (id) {
+        return id;
+    };
+    return Usuarios;
+}());
+var usuarios = new Usuarios();
+usuarios.add(1);

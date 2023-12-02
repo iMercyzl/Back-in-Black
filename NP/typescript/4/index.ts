@@ -1,20 +1,25 @@
 class Usuarios {
-    id: number;
-    name: string;
-    lastname: string;
-    email: string;
-    status: boolean;
 
 
-    constructor(id: number, name: string, lastname: string, email: string, status: boolean) {
-        this.id = id;
-        this.name = name;
-        this.lastname = lastname;
-        this.email = email;
-        this.status = status;
+    constructor() {
+    }
 
-        console.log(this.id, this.name, this.lastname, this.email, this.status)
+    add(id: number):number {
+        return id;
+
+    }
+
+    edit(id: number):number {
+        return id;
+
+    }
+
+    delete(id: number):number {
+        return id;
+
     }
 }
 
-const usuarios = new Usuarios(1, 'Juan', 'Perez', 'juan@juan.com', true);
+const usuarios = new Usuarios();
+
+usuarios.add(1);

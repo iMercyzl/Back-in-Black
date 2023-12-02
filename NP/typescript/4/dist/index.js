@@ -1,13 +1,17 @@
 var Usuarios = /** @class */ (function () {
-    function Usuarios(id, name, lastname, email, status) {
-        this.id = id;
-        this.name = name;
-        this.lastname = lastname;
-        this.email = email;
-        this.status = status;
-        console.log(this.id, this.name, this.lastname, this.email, this.status);
+    function Usuarios() {
     }
+    Usuarios.prototype.add = function (id) {
+        return id;
+    };
+    Usuarios.prototype.edit = function (id) {
+        return id;
+    };
+    Usuarios.prototype.delete = function (id) {
+        return id;
+    };
     return Usuarios;
 }());
-var usuarios = new Usuarios(1, 'Juan', 'Perez', 'juan@juan.com', true);
+var usuarios = new Usuarios();
+usuarios.add(1);
 //# sourceMappingURL=index.js.map
